@@ -47,7 +47,7 @@
 </p>
 
 ```
-- Frontend : Next.js
+- Frontend : Next.js, React.js
 - Backend : FastAPI, Langchain
 - DevOps : Docker
 - Database: PostgreSQL, MongoDB
