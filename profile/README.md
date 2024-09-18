@@ -5,6 +5,15 @@
 # 💻 GITLIO
 
 <p align="center">
+  <strong>YOUTUBE</strong>
+</p>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=ujqJf69M6rQ">
+    <img src="https://img.youtube.com/vi/ujqJf69M6rQ/0.jpg" alt="IMAGE ALT TEXT HERE"/>
+  </a>
+</p>
+
+<p align="center">
 <strong>개발자 포트폴리오 호스팅 서비스 <br></strong>나만의 포트폴리오를 작성해보아요!
 </p>
 <br>
